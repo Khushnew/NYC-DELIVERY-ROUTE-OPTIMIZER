@@ -3,7 +3,7 @@
 
 An interactive educational tool for exploring route optimization algorithms using real NYC street data. Built with React, TypeScript, and Tailwind CSS.
 
-![Demo Screenshot](https://via.placeholder.com/800x400?text=NYC+Route+Optimizer+Demo)
+LINK: https://nyc-delivery-route-optimizer.vercel.app/
 
 ## 🎯 Features
 
