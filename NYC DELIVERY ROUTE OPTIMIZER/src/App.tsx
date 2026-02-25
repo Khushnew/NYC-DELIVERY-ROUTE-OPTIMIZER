@@ -179,7 +179,7 @@ function App() {
               
               <Button variant="outline" size="sm" asChild>
                 <a 
-                  href="https://github.com/Khushnew/NYC-DELIVERY-OPTIMIZER" 
+                  href="https://github.com/Khushnew/NYC-DELIVERY-OPTIMIZER"
                   target="_blank" 
                   rel="noopener noreferrer"
                 >
